@@ -17,7 +17,24 @@
         ]
       },
       "registered_skills": [],
-      "installed_at": "2026-04-14T05:16:53.744643+00:00"
+      "installed_at": "2026-04-21T18:40:22.517317+00:00"
+    },
+    "brownfield": {
+      "version": "1.0.0",
+      "source": "local",
+      "manifest_hash": "sha256:671babc47c752bf18868d0aeeef66f0fc4f37c6cf52622cfa07e8715fb5ac4a6",
+      "enabled": true,
+      "priority": 10,
+      "registered_commands": {
+        "copilot": [
+          "speckit.brownfield.scan",
+          "speckit.brownfield.bootstrap",
+          "speckit.brownfield.validate",
+          "speckit.brownfield.migrate"
+        ]
+      },
+      "registered_skills": [],
+      "installed_at": "2026-04-21T18:41:09.391056+00:00"
     }
   }
 }
